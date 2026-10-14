@@ -1,0 +1,5 @@
+numpy>=1.22.0
+pandas>=1.4.0
+networkx>=2.8.0
+lightgbm>=3.3.0
+shap>=0.41.0
